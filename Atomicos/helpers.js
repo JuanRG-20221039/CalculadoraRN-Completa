@@ -1,3 +1,4 @@
+// helpers.js
 
 export const realizarOperacion = (valor1, valor2, operacion) => {
     switch (operacion) {
